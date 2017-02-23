@@ -10,7 +10,8 @@
     "react": "15.4.2",
     "react-native": "0.41.2",
     "react-native-swipe-out": "^2.0.14",
-    "react-native-swipeout": "2.0.12"
+    "react-native-swipeout": "2.0.12",
+    "redux": "^3.6.0"
   },
   "devDependencies": {
     "babel-jest": "19.0.0",
